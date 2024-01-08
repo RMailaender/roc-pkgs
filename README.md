@@ -7,4 +7,5 @@ A small and incomplete overview of roc platforms and packages I am aware of.
 
 # Packages
 - [Hasnep/roc-html](https://github.com/Hasnep/roc-html)
+- [hasnep/roc-datetimes](https://github.com/hasnep/roc-datetimes)
 - [lukewilliamboswell/roc-json](https://github.com/lukewilliamboswell/roc-json)
